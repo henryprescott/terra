@@ -1,0 +1,23 @@
+{
+  "name": "terra",
+  "version": "1.0.0",
+  "description": "three.js terrain generation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryprescott/terra.git"
+  },
+  "author": "Henry Prescott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryprescott/terra/issues"
+  },
+  "homepage": "https://github.com/henryprescott/terra#readme",
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "serve-static": "^1.13.2"
+  }
+}
